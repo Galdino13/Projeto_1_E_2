@@ -79,13 +79,7 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
   
-  @override
-  Widget build(BuildContext context) {
-    // TODO: implement build
-    throw UnimplementedError();
-  }
-}
-
+ 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -101,8 +95,6 @@ class _LoginPageState extends State<LoginPage> {
       ],
     ));
   }
-  
-  _body() {
-  }
-  
+ 
+}
 
