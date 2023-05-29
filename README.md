@@ -8,3 +8,9 @@ Sistema de rotas (adicionando um arquivo para as rotas e um para a  navegação)
 
 email do usuario : matheus@gmail.com
 senha do usuario : 123456
+
+### Outras atividades desenvolvidas no curso
+https://github.com/Galdino13/Atividade1Flutter 
+https://github.com/Galdino13/Atividade2Flutter
+https://github.com/Galdino13/Atividade3Flutter
+https://github.com/Galdino13/contadorapp
