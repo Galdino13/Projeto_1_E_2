@@ -93,9 +93,6 @@ class _LoginPageState extends State<LoginPage> {
       children: [
         SizedBox(
           height: MediaQuery.of(context).size.height,
-          child: Image.network(
-              'https://tse1.mm.bing.net/th?id=OIP.05Vfyl95NA57kVmZLLM_4QHaHa&pid=Api&rs=1&c=1&qlt=95&w=123&h=123',
-              fit: BoxFit.cover),
         ),
         Container(
           color: Colors.black.withOpacity(0.3),
